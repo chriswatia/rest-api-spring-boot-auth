@@ -1,0 +1,3 @@
+com\chriswatia\restdemo\controller\CloudVendorControllerTest.class
+com\chriswatia\restdemo\repository\CloudVendorRepositoryTests.class
+com\chriswatia\restdemo\service\impl\CloudVendorServiceImplTest.class

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "rsa",
+      "type": "com.chriswatia.restdemo.config.RsaKeyProperties",
+      "sourceType": "com.chriswatia.restdemo.config.RsaKeyProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rsa.private-key",
+      "type": "java.security.interfaces.RSAPrivateKey",
+      "sourceType": "com.chriswatia.restdemo.config.RsaKeyProperties"
+    },
+    {
+      "name": "rsa.public-key",
+      "type": "java.security.interfaces.RSAPublicKey",
+      "sourceType": "com.chriswatia.restdemo.config.RsaKeyProperties"
+    }
+  ],
+  "hints": []
+}

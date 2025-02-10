@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.chriswatia.restdemo.repository.CloudVendorRepositoryTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.995 s -- in com.chriswatia.restdemo.repository.CloudVendorRepositoryTests
