@@ -114,6 +114,6 @@ class CloudVendorServiceImplTest {
         when(cloudVendorRepository.findByVendorName("AWS")).thenReturn(List.of(cloudVendor));
 
         // Assert
-        assertThat(cloudVendorService.getByVendorName("AWS").get(0).getVendorId()).isEqualTo(cloudVendor.getVendorId());
+        assertThat(cloudVendorService.getByVendorName("AWS").getFirst().getVendorId()).isEqualTo(cloudVendor.getVendorId());
     }
 }
